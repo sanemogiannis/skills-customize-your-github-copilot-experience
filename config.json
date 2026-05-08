@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "sorting-and-searching",
+      "title": "Sorting and Searching Algorithms",
+      "description": "Implement bubble sort, linear search, and binary search from scratch in Python.",
+      "path": "assignments/sorting-and-searching",
+      "dueDate": "2026-05-15",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
